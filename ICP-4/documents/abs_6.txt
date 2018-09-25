@@ -1,0 +1,9 @@
+Non-small cell lung cancer (NSCLC) remains one of the most aggressive tumors with low life expectancy worldwide. 
+The existence of cancer stem cells (CSCs) contributes to the failure of cancer treatment resulted from drug resistance. 
+Altered microRNA expression has been observed in human tumors due to its role in tumor growth, progression and metastasis. 
+Hence, the aim of our present study was to investigate the effects of miR-485 on the CSC-like traits in NSCLC A549-cisplatin resistant cells and concentrate on the underlying molecular mechanism. It was found that CSC-like phenotypes were much more enriched in A549/cisplatin (A549/CDDP) cells compared to A549-parental cells. 
+In addition, we observed that miR-485 was greatly decreased in A549/CDDP cells and miR-485 overexpression was able to decrease the stemness of A549/DDP cells. 
+Meanwhile, epigallocatechin-3-gallate (EGCG), a green tea polyphenol which has been identified as an effective anticancer compound was able to increase miR-485 expression dose-dependently in A549/CDDP cells. 
+Inhibitors of miR-485 remarkably increased CSC-like phenotypes, which could be reversed by indicated doses of EGCG. Moreover, CD44 was predicted as downstream target of miR-485 and the correlation between them was validated by performing dual-luciferase reporter assay and RNA immunoprecipitation (RIP) assay. 
+Subsequently, in vivo experiments were employed to confirm that EGCG restrained CSC-like characteristics by increasing miR-485 and decreasing CD44 expression. Taken together, it was implied that stemness features and CSC population were suppressed by EGCG-modulated miR-485/CD44 axis in A549/CDDP cells. 
+Actinomycosis is an uncommon infectious disease caused predominantly by Actinomyces israelii.

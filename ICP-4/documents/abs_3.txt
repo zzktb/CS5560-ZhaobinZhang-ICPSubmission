@@ -1,0 +1,10 @@
+The SNPs mutational profiling showed enrichments of smoking-related signature 4 and defective DNA mismatch repair (MMR)-related signature 6 in younger patients, while the defective DNA MMR signature 26 was enriched among older patients. 
+Furthermore, gene set enrichment analysis was performed in order to explore functional effect of somatic alterations in relation to patient age. 
+Extracellular Matrix-Receptor Interaction, Nucleotide Excision Repair and Axon Guidance seem crucial disrupted pathways in younger patients. 
+We hypothesize that a higher sensitivity to smoking-related damages and the enrichment of defective DNA MMR related mutations may contribute to the higher mutational burden of younger patients. 
+The two distinct age-related defective DNA MMR signatures 6 and 26 might be crucial mutational patterns in LUSC tumorigenesis which may develop distinct phenotypes. 
+Our study provides indications of age-dependent differences in mutational backgrounds (SNPs and CNVs) as well as epigenetic patterns that might be relevant for age adjusted treatment approaches.
+Surgical resection has traditionally been considered the standard of care for patients with stage I non-small cell lung cancer (NSCLC). 
+With the introduction of stereotactic radiation body therapy (SBRT), there is now a viable option for medically inoperable patients with stage I NSCLC. 
+The effectiveness of SBRT in patients with stage I disease but at elevated surgical risk is unknown. 
+Multiple randomized controlled trials (RCTs) have been attempted to compare surgical resection and SBRT in this population but have been aborted due to poor patient enrollment.
