@@ -1,0 +1,4 @@
+infectiousDisease,is,leadingCause SYMMETRIC TO leadingCause,is,infectiousDisease
+
+leadingCause,is,infectiousDisease SYMMETRIC TO infectiousDisease,is,leadingCause
+

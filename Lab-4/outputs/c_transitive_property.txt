@@ -1,0 +1,2 @@
+infectiousDisease, is, infectious and infectious, is, causeOfInfection "TRANSITIVE TO" infectiousDisease, is, causeOfInfection
+

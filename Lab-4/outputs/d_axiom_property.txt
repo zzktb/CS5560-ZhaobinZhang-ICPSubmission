@@ -1,0 +1,1 @@
+infectiousDisease, is, infection and infection, is, causeOfInfection => infectiousDisease, is, causeOfInfection
